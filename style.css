@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: aqua;
+}
+
+img {
+  display: block; margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+}
